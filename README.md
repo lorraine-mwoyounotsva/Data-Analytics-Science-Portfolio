@@ -12,9 +12,9 @@ My CV - [pdf](https://example.com)
 
 - [Portfolio Projects](#portfolio-projects)
   - [Python](#python)
-    - [Titanic Survival Prediction](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
-    - [Iris Flower Classification](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
-    - [Credit Card Fraud Detection](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
+    - [Titanic Survival Prediction](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
+    - [Iris Flower Classification](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
+    - [Credit Card Fraud Detection](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
   - [SQL](#sql)
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
@@ -32,7 +32,7 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 ### Titanic Survival Prediction
 
-**Code**: [Titanic Survival Prediction.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
+**Code**: [Titanic Survival Prediction.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
 
 **Goal**: To determine the factors that most contribute to a movie's success.
 
@@ -46,7 +46,7 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 ### Iris Flower Classification
 
-**Code**: [Iris Flower Classification.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
+**Code**: [Iris Flower Classification.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
 
 **Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
 
@@ -60,7 +60,7 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 ### Credit Card Fraud Detection
 
-**Code**: [Credit Card Fraud Detection.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
+**Code**: [Credit Card Fraud Detection.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
 
 **Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
 
