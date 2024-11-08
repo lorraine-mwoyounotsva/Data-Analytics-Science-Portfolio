@@ -34,43 +34,43 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 **Code**: [Titanic Survival Prediction.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
 
-**Goal**: To determine the factors that most contribute to a movie's success.
+**Goal**: To determine whether a passenger on the Titanic survived or not, based on passenger features.
 
-**Description**: The project analyzed movies released between 1980 and 2022, covering titles, ratings, genres, budgets, gross earnings, and more. Key steps included data loading, cleaning, preprocessing, EDA, and correlation analysis (using Pearson’s correlation).
+**Description**: The dataset contains passenger details such as age, gender, ticket class, and more. The project involved data loading, cleaning (handling missing values), feature engineering (creating new features like 'Title' and 'FamilySize'), data preprocessing (normalizing numerical features, encoding categorical variables), exploratory data analysis (EDA), and model training. Several machine learning models were tested, and the best model was evaluated using accuracy, classification report, and confusion matrix.
 
-**Skills**: Data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills**: Data cleaning, feature engineering, data preprocessing, exploratory data analysis (EDA), machine learning, model evaluation.
 
-**Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Statsmodels.
 
-**Results**: Analysis revealed that votes and budget have the highest correlation with gross earnings, while company affiliation has no significant impact.
+**Results**: A HistGradientBoostingClassifier model with hyperparameter tuning achieved an accuracy of 100% on the test set. Visualizations highlighted key patterns in the data, such as survival rates by gender and ticket class, contributing to a deeper understanding of the factors affecting survival.
 
 ### Iris Flower Classification
 
 **Code**: [Iris Flower Classification.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
 
-**Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
+**Goal**: Classify Iris flowers into their respective species based on sepal and petal measurements.
 
-**Description**: The dataset included sales records with product and order details. Key steps were data loading, cleaning, preprocessing, EDA, sales analysis, and hypothesis testing.
+**Description**: The dataset contains Iris flower measurements, including sepal length, sepal width, petal length, and petal width. The task involved data exploration, preprocessing, visualizations, and building a K-Nearest Neighbors (KNN) model for classification. The model was trained and evaluated on a test set to predict the species of Iris flowers.
 
-**Skills**: Data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills**: Data cleaning, data analysis, data exploration, data preprocessing, machine learning (classification), model evaluation, data visualization.
 
-**Technology**: Python, Pandas, Matplotlib.
+**Technology**: Python, Pandas, Seaborn, Matplotlib, Scikit-learn.
 
-**Results**: Calculations and visualizations of sales data by month, city, and item popularity, providing insights on commonly sold items and high-frequency sales patterns.
+**Results**: The KNN model achieved an accuracy of 100% with no misclassifications. Evaluation metrics like precision, recall, and F1-score were all perfect, indicating the model’s effectiveness in classifying the Iris species.
 
 ### Credit Card Fraud Detection
 
 **Code**: [Credit Card Fraud Detection.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
 
-**Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
+**Goal**: Build a machine learning model to detect fraudulent credit card transactions.
 
-**Description**: The dataset included sales records with product and order details. Key steps were data loading, cleaning, preprocessing, EDA, sales analysis, and hypothesis testing.
+**Description**: The dataset contained transaction records with 31 features, including anonymized transaction details. The key steps involved loading the dataset, checking for missing values, performing exploratory data analysis (EDA), and handling the class imbalance between fraudulent and non-fraudulent transactions. Techniques such as oversampling the minority class and feature scaling were applied. A Random Forest classifier was trained on the data, and performance was evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
 
-**Skills**: Data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills**: Data preprocessing, handling class imbalance, feature scaling, machine learning model training, model evaluation, data visualization.
 
-**Technology**: Python, Pandas, Matplotlib.
+**Technology**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn.
 
-**Results**: Calculations and visualizations of sales data by month, city, and item popularity, providing insights on commonly sold items and high-frequency sales patterns.
+**Results**: The Random Forest model achieved an accuracy of 100%, precision of 0.99, recall of 0.78, and an F1 score of 0.87. The confusion matrix indicated a very low number of false positives, with a higher number of false negatives, highlighting a potential area for improvement in recall for fraudulent transactions.
 
 ### Nashville Housing Data Cleaning
 
