@@ -33,28 +33,43 @@ In this section, I showcase data analytics projects, providing a brief overview 
 ### Titanic Survival Prediction
 
 **Code**: [Titanic Survival Prediction.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
+
 **Goal**: To determine the factors that most contribute to a movie's success.
+
 **Description**: The project analyzed movies released between 1980 and 2022, covering titles, ratings, genres, budgets, gross earnings, and more. Key steps included data loading, cleaning, preprocessing, EDA, and correlation analysis (using Pearson’s correlation).
+
 **Skills**: Data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
 **Results**: Analysis revealed that votes and budget have the highest correlation with gross earnings, while company affiliation has no significant impact.
 
 ### Iris Flower Classification
 
 **Code**: [Iris Flower Classification.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
+
 **Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
+
 **Description**: The dataset included sales records with product and order details. Key steps were data loading, cleaning, preprocessing, EDA, sales analysis, and hypothesis testing.
+
 **Skills**: Data cleaning, data analysis, hypothesis testing, data visualization.
+
 **Technology**: Python, Pandas, Matplotlib.
+
 **Results**: Calculations and visualizations of sales data by month, city, and item popularity, providing insights on commonly sold items and high-frequency sales patterns.
 
 ### Credit Card Fraud Detection
 
 **Code**: [Credit Card Fraud Detection.ipynb](#https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
+
 **Goal**: Examine store sales history to extract performance insights and identify areas for improvement.
+
 **Description**: The dataset included sales records with product and order details. Key steps were data loading, cleaning, preprocessing, EDA, sales analysis, and hypothesis testing.
+
 **Skills**: Data cleaning, data analysis, hypothesis testing, data visualization.
+
 **Technology**: Python, Pandas, Matplotlib.
+
 **Results**: Calculations and visualizations of sales data by month, city, and item popularity, providing insights on commonly sold items and high-frequency sales patterns.
 
 ### Nashville Housing Data Cleaning
