@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm a passionate Data Analysit driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
+Hi, I'm a passionate Data Analyst driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
 
 My CV - [pdf](https://example.com)
 
@@ -12,9 +12,9 @@ My CV - [pdf](https://example.com)
 
 - [Portfolio Projects](#portfolio-projects)
   - [Python](#python)
-    - [Titanic Survival Prediction](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
-    - [Iris Flower Classification](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb)
-    - [Credit Card Fraud Detection](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
+    - [Titanic Survival Prediction](#titanic-survival-prediction)
+    - [Iris Flower Classification](#iris-flower-classification)
+    - [Credit Card Fraud Detection](#credit-card-fraud-detection)
   - [SQL](#sql)
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
