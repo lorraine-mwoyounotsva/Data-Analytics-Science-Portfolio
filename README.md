@@ -1,8 +1,8 @@
-# Lorraine Mwoyounotsva - Data Analyst Portfolio
+# Lorraine Mwoyounotsva - AI ML Engineering & Data-Engineering Portfolio.
 
 ## About
 
-Hi, I'm a passionate Data Analyst/Scientist driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
+Hi, I'm a passionate AI ML Engineer & Data-Engineer driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
 
 My CV - [pdf](https://example.com)
 
