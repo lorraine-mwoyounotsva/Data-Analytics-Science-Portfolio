@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm a passionate Data Analyst driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
+Hi, I'm a passionate Data Analyst/Scientist driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
 
 My CV - [pdf](https://example.com)
 
@@ -20,7 +20,6 @@ My CV - [pdf](https://example.com)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - [R](#r)
     - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
-  - [Excel / Google Sheets](#excel--google-sheets)
   - [Tableau](#tableau)
   - [Power BI](#power-bi)
 - [Education](#education)
