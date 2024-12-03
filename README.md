@@ -4,7 +4,7 @@
 
 Hi, I'm a passionate Data-Engineer driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
 
-My CV - [pdf](https://example.com)
+My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfolio/blob/main/Certificates/CV%20-%20Lorraine%20Mwoyounotsva.pdf)
 
 ## Table of Contents
 
@@ -97,9 +97,13 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 The following certificates showcase my additional skills and qualifications:
 
-- **Google Data Analytics Professional Certificate** (Sep 2022) - [Coursera - Google]
-- **Tableau** (Oct 2022) - [Coursera - University of California, Davis]
-- **Python for Data Science** (Feb 2023) - [Coursera - University of Colorado Boulder]
+[**CodSoft Internship Certificate of Completion**](https://github.com/lorraine-mwoyounotsva/CODSOFT_DataScience_Internship/blob/main/LorraineMwoyounotsva-Certificate.pdf) - Sep 2023
+
+[**Africa Agility Data Science / Machine Learning Certificate**](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfolio/blob/main/Certificates/DataScienceCert%5B1%5D.pdf) - June 2023 - Aug 2023
+
+[**freeCodeCamp Data Analysis with Python Certificate**]() - Sep 2023
+
+[**freeCodeCamp Machine Learning with Python Certificate**]() - Sep 2023
 
 ## Contact
 
