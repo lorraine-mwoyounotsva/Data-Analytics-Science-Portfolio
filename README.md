@@ -1,8 +1,8 @@
-# Lorraine Mwoyounotsva - Data-Engineering Portfolio.
+# Lorraine Mwoyounotsva - Data Analytics/Science Portfolio.
 
 ## About
 
-Hi, I'm a passionate Data-Engineer driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
+Hi, I'm a passionate Data Analytics/Science driven by curiosity and a commitment to continuous learning. I thrive on solving complex problems and embracing new challenges. Collaborating with diverse teams and contributing to impactful projects fuels my growth, both personally and professionally. Let's connect and create something amazing together!
 
 My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfolio/blob/main/Certificates/CV%20-%20Lorraine%20Mwoyounotsva.pdf)
 
