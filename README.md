@@ -101,11 +101,11 @@ The following certificates showcase my additional skills and qualifications:
 
 [**Africa Agility Data Science / Machine Learning Certificate**](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfolio/blob/main/Certificates/DataScienceCert%5B1%5D.pdf) - June 2023 - Aug 2023
 
-[**freeCodeCamp Data Analysis with Python Certificate**]() - Sep 2023
+[**freeCodeCamp Data Analysis with Python Certificate**](https://freecodecamp.org/certification/lorrainemwoy/data-analysis-with-python-v7) - Dec 2024
 
 [**freeCodeCamp Machine Learning with Python Certificate**]() - Sep 2023
 
 ## Contact
 
 - **LinkedIn**: [@lorraine-mwoyounotsva](https://www.linkedin.com/in/lorraine-mwoyounotsva/)
-- **Email**: [lorrainemwoy@gmail.com](mailto:lorrainemwoy@gmail.com)
+- **Email**: [lorrainemwoy.tech@gmail.com](mailto:lorrainemwoy.tech@gmail.com)
