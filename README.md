@@ -74,8 +74,6 @@ The following certificates showcase my additional skills and qualifications:
 
 [**freeCodeCamp Data Analysis with Python Certificate**](https://freecodecamp.org/certification/lorrainemwoy/data-analysis-with-python-v7) - Dec 2024
 
-[**freeCodeCamp Machine Learning with Python Certificate**]() - Sep 2023
-
 ## Contact
 
 - **LinkedIn**: [@lorraine-mwoyounotsva](https://www.linkedin.com/in/lorraine-mwoyounotsva/)
