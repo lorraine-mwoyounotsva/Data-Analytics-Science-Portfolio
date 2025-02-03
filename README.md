@@ -15,13 +15,6 @@ My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfoli
     - [Titanic Survival Prediction](#titanic-survival-prediction)
     - [Iris Flower Classification](#iris-flower-classification)
     - [Credit Card Fraud Detection](#credit-card-fraud-detection)
-  - [SQL](#sql)
-    - [Covid 19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
-  - [R](#r)
-    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
-  - [Tableau](#tableau)
-  - [Power BI](#power-bi)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -70,28 +63,6 @@ In this section, I showcase data analytics projects, providing a brief overview 
 **Technology**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn.
 
 **Results**: The Random Forest model achieved an accuracy of 100%, precision of 0.99, recall of 0.78, and an F1 score of 0.87. The confusion matrix indicated a very low number of false positives, with a higher number of false negatives, highlighting a potential area for improvement in recall for fraudulent transactions.
-
-### Nashville Housing Data Cleaning
-
-- **Code**: [Data Cleaning Project Queries: Nashville Housing.sql](Data-Cleaning-Project-Queries-Nashville-Housing.sql)
-- **Description**: Data cleaning and preprocessing for housing sales records in Nashville from 2013 to 2019.
-- **Skills**: DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-- **Technology**: SQL Server.
-
-### Covid 19 Data Exploration
-
-- **Code**: [COVID Portfolio Project.sql](COVID-Portfolio-Project.sql)
-- **Description**: The project examined Covid-19 cases, deaths, and vaccinations by country (2020-2021). Included data loading, cleaning, preprocessing, and EDA.
-- **Skills**: Joins, CTE's, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types.
-- **Technology**: SQL Server.
-
-### Legendary Pokémon Analysis
-
-- **Code**: [Legendary Pokémon Analysis (Study Project)](Legendary-Pokémon-Analysis)
-- **Goal**: Predict Pokémon status based on characteristics and rank their importance in determining legendary status.
-- **Description**: Dataset included Pokémon attributes like attack, defense, type, and size. Project involved data loading, cleaning, and EDA focused on attribute analysis.
-- **Skills**: Data cleaning, data analysis, data visualization.
-- **Technology**: Tidyverse.
 
 ## Certificates
 
