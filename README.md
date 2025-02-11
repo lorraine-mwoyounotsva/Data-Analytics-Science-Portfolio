@@ -15,7 +15,7 @@ My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfoli
     - [Titanic Survival Prediction](#titanic-survival-prediction)
     - [Iris Flower Classification](#iris-flower-classification)
     - [Credit Card Fraud Detection](#credit-card-fraud-detection)
-- [Certificates / Education](#certificates-education)
+- [Certificates](#Certificates)
 - [Contact](#contact)
 
 # Portfolio Projects
@@ -63,7 +63,7 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 **Results**: The Random Forest model achieved an accuracy of 100%, precision of 0.99, recall of 0.78, and an F1 score of 0.87. The confusion matrix indicated a very low number of false positives, with a higher number of false negatives, highlighting a potential area for improvement in recall for fraudulent transactions.
 
-## Certificates / Education
+## Certificates
 
 The following certificates showcase my additional skills and qualifications:
 
