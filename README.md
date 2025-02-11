@@ -15,7 +15,7 @@ My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfoli
     - [Titanic Survival Prediction](#titanic-survival-prediction)
     - [Iris Flower Classification](#iris-flower-classification)
     - [Credit Card Fraud Detection](#credit-card-fraud-detection)
-- [Certificates/Education](#certificates-/-education)
+- [Certificates/Education](##certificates-education)
 - [Contact](#contact)
 
 # Portfolio Projects
